@@ -1,4 +1,7 @@
-### Hi there 👋
+### Good day!
+
+- 🌱 I’m currently learning C/C++.
+- 🤔 I’m looking for help with CUDA.
 
 <!--
 **romul90/romul90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
